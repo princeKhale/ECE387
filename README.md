@@ -6,6 +6,7 @@ GCC(ARM Embedded) toolchain as I thought this would give me less annoying toolch
 code probably does not function completely as indended in this form.
 
 ==================== DIR description ====================
+
 Added Value - Contains my personal source code, all of which was written by me with some functions being adapted from my referenences
 
 Library with Configuration Files for Mbed OS - Contains all libraries associated with the Mbed OS
