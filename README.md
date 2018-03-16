@@ -7,6 +7,9 @@ code probably does not function completely as indended in this form.
 
 ==================== DIR description ====================
 Added Value - Contains my personal source code, all of which was written by me with some functions being adapted from my referenences
+
 Library with Configuration Files for Mbed OS - Contains all libraries associated with the Mbed OS
+
 Makefile - The toolchain export included a makefile which would need some editing to make sure it reflects the new directories
+
 Main library File - Here I solely copied the I2C.cpp and I2C.h files over as it was the main library I directly used 
