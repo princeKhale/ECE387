@@ -11,6 +11,8 @@ Added Value (Midterm) - Contains my personal source code, all of which was writt
 
 Final/Added Value  - Contains my personal source code for my final project attempt. It uses the midterm's code as a library and attempts to integrate the senors and motor control.
 
+Final/pwmTest  - Contains my code where I was testing differnt PWM outputs through Mbed
+
 Library with Configuration Files for Mbed OS - Contains all libraries associated with the Mbed OS
 
 Makefile - The toolchain export included a makefile which would need some editing to make sure it reflects the new directories
