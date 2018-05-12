@@ -7,7 +7,11 @@ code probably does not function completely as indended in this form.
 
 ==================== DIR description ====================
 
-Added Value - Contains my personal source code, all of which was written by me with some functions being adapted from my referenences
+Added Value (Midterm) - Contains my personal source code, all of which was written by me with some functions being adapted from my referenences
+
+Final/Added Value  - Contains my personal source code for my final project attempt. It uses the midterm's code as a library and attempts to integrate the senors and motor control.
+
+Final/pwmTest  - Contains my code where I was testing differnt PWM outputs through Mbed
 
 Library with Configuration Files for Mbed OS - Contains all libraries associated with the Mbed OS
 
